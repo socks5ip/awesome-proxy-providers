@@ -31,18 +31,18 @@
 
 | 服务商 | 起步价 | 类型侧重 | 邀请码 / 备注 |
 |--------|--------|----------|---------------|
-| [奔富IP](https://user.benfuip.com) | 2.6 元/月 | SOCKS5/住宅 | `adminA1` |
-| [天行IP](https://socks5ip.com.cn) | 6 元/月 | 动态/静态 | `tianxingA0` |
-| [沧海IP](https://socks5ip.com.cn) | 4 元/月 | 住宅/机房 | `YAXI` |
-| [无双IP](https://new.6nn.net) | 7.5 元/月 | SOCKS5 专线 | `nBhBjh3kGW39` |
+| [奔富IP](https://user.benfuip.com/main/register?aff=adminA1) | 2.6 元/月 | SOCKS5/住宅 | `adminA1` |
+| [天行IP](http://www.tianxingip.com/proxy/index/index/code/tianxingA0/p/2242.html) | 6 元/月 | 动态/静态 | `tianxingA0` |
+| [沧海IP](http://www.canghaiip.com/#/register?invitation=YAXI&shareid=913) | 4 元/月 | 住宅/机房 | `YAXI` |
+| [无双IP](https://new.6nn.net/admin#/login?scope=register&inviteCode=nBhBjh3kGW39) | 7.5 元/月 | SOCKS5 专线 | `nBhBjh3kGW39` |
 | [全球代理IP](https://socks5ip.6nn.net/register) | 5 元/月 | 全球住宅 | 无码直注 |
-| [55游](https://55u.net) | 0.6 元/天 | 游戏/动态 | `adminA1` |
-| [光梭IP](https://socks5ip.com.cn) | 2.24 元/月 | 高速机房 | `adminA8` |
-| [JiuIP](https://socks5ip.com.cn) | 3.4 元/月 | 住宅/机房 | `adminA0` |
-| [光子IP](https://socks5ip.com.cn) | 4 元/月 | 住宅/机房 | `adminA1` |
-| [糖果IP](https://socks5ip.com.cn) | 5 元/月 | 动态住宅 | `800659` |
-| [优众IP](https://socks5ip.com.cn) | 7.2 元/月 | 企业级 | `8F6A590B1DFB4F4C99D8E775B8AC51DC` |
-| [鲸云IP](https://console.51tcp.com) | 6 元/月 | 云原生 | `i=degj` |
+| [55游](https://55u.net/#/login?c=adminA1) | 0.6 元/天 | 游戏/动态 | `adminA1` |
+| [光梭IP](https://guangsuoip.com/user/login?p=guangsuoip&code=adminA8) | 2.24 元/月 | 高速机房 | `adminA8` |
+| [JiuIP](https://jiuip.com/#/r?p=adminA0) | 3.4 元/月 | 住宅/机房 | `adminA0` |
+| [光子IP](http://www.gzsk5.com/#/register?invitation=adminA1&shareid=231) | 4 元/月 | 住宅/机房 | `adminA1` |
+| [糖果IP](http://www.tangguoip.com/register/800659) | 5 元/月 | 动态住宅 | `800659` |
+| [优众IP](https://sk5ip.cn/views/login.html#?promotionCode=8F6A590B1DFB4F4C99D8E775B8AC51DC) | 7.2 元/月 | 企业级 | `8F6A590B1DFB4F4C99D8E775B8AC51DC` |
+| [鲸云IP](https://console.51tcp.com/auth/register?i=degj) | 6 元/月 | 云原生 | `i=degj` |
 
 > 以上仅为部分在架服务商。**全部 20+ 家实时对比、价格、邀请码、免费测试入口，见聚合导航 [socks5ip.com.cn](https://socks5ip.com.cn)。**
 
