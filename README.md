@@ -63,6 +63,7 @@ SOCKS5 是**应用层**代理：单应用生效、支持 UDP，在软件/浏览�
 | [糖果IP](http://www.tangguoip.com/register/800659) | 5 元/月 | 动态住宅 | `800659` |
 | [优众IP](https://sk5ip.cn/views/login.html#?promotionCode=8F6A590B1DFB4F4C99D8E775B8AC51DC) | 7.2 元/月 | 企业级 | `8F6A590B1DFB4F4C99D8E775B8AC51DC` |
 | [鲸云IP](https://console.51tcp.com/auth/register?i=degj) | 6 元/月 | 云原生 | `i=degj` |
+| [Proxy Sale.pro](https://proxy-sale.pro/?utm_source=socks5ip_awesome&utm_medium=directory&utm_campaign=proxysale&utm_content=provider_row_20261013) | $1 / GB（Pool 1） | 动态住宅 / HTTP | 无邀请码；测试须向客服申请 |
 
 > 以上仅为部分在架服务商。**全部 20+ 家实时对比、价格、邀请码、免费测试入口，见聚合导航 [socks5ip.com.cn](https://socks5ip.com.cn)。**
 
