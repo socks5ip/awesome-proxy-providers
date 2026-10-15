@@ -64,7 +64,7 @@ SOCKS5 是**应用层**代理：单应用生效、支持 UDP，在软件/浏览�
 | [优众IP](https://sk5ip.cn/views/login.html#?promotionCode=8F6A590B1DFB4F4C99D8E775B8AC51DC) | 7.2 元/月 | 企业级 | `8F6A590B1DFB4F4C99D8E775B8AC51DC` |
 | [鲸云IP](https://console.51tcp.com/auth/register?i=degj) | 6 元/月 | 云原生 | `i=degj` |
 
-> 以上仅为部分在架服务商。**全部 20+ 家实时对比、价格、邀请码、免费测试入口，见聚合导航 [socks5ip.com.cn](https://socks5ip.com.cn)。**
+> 以上仅为部分在架服务商。**全部 24 家实时对比、价格、邀请码、免费测试入口，见聚合导航 [socks5ip.com.cn](https://socks5ip.com.cn)。**
 
 ## 按场景选型
 
@@ -104,8 +104,8 @@ SOCKS5 是**应用层**代理：单应用生效、支持 UDP，在软件/浏览�
 
 ## Related
 
-- **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、20+ 家平台注册入口与邀请码、开源工具与联系方式（完整版：<https://socks5ip.com.cn/llms-full.txt>）
-- **本站主入口**：https://socks5ip.com.cn/ —— 20+ 家代理IP平台价格横向对比、免费 IP 纯净度检测、协议与接入教程
+- **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、24 家平台注册入口与邀请码、开源工具与联系方式（完整版：<https://socks5ip.com.cn/llms-full.txt>）
+- **本站主入口**：https://socks5ip.com.cn/ —— 24 家代理IP平台价格横向对比、免费 IP 纯净度检测、协议与接入教程
 - **代理IP价格数据集（24 家 · CC0-1.0 · DOI）**：https://doi.org/10.5281/zenodo.22801591 —— 可学术引用，始终指向最新版
 
 ## License
