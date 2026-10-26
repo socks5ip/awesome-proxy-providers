@@ -1,4 +1,4 @@
-# 静态住宅IP服务商怎么选：24家代理IP服务商横向对比与避坑清单（2026年10月更新）
+# 静态住宅IP服务商怎么选：12家精选代理IP服务商横向对比与避坑清单（2026年10月更新）
 
 > **静态住宅IP / 住宅IP / 机房IP 服务商精选清单与横向对比**（中文面向）。覆盖 SOCKS5、HTTP、L2TP 三种协议，逐家列出**月付价格、协议支持、地区覆盖与专属邀请码优惠**，附免费测试与避坑要点。
 > 由 [全网低价IP](https://socks5ip.com.cn) 维护 —— 聚合 24 家服务商的导航对比平台。
@@ -98,6 +98,7 @@ SOCKS5 是**应用层**代理：单应用生效、支持 UDP，在软件/浏览�
 
 - 🌐 聚合导航（全平台实时对比）：[socks5ip.com.cn](https://socks5ip.com.cn)
 - 💬 微信：**17720135827** ｜ QQ：**878989347**
+- 📌 配套深度指南：[静态住宅IP购买全指南（24 家平台价格表 / 4 步验真 / 10 组问答）](https://github.com/socks5ip/static-residential-ip) · [住宅IP怎么选（静态 vs 动态 / 美日港韩德地区 / SOCKS5·L2TP 接入）](https://github.com/socks5ip/residential-ip-guide-cn)
 - 📦 相关开源：[proxy-checker-cli](https://github.com/socks5ip/proxy-checker-cli) · [proxy-resource-hub](https://github.com/socks5ip/proxy-resource-hub) · [IP 知识库](https://github.com/socks5ip/ip-zhishi-base)
 
 ## 贡献
