@@ -98,7 +98,7 @@ SOCKS5 是**应用层**代理：单应用生效、支持 UDP，在软件/浏览�
 
 - 🌐 聚合导航（全平台实时对比）：[socks5ip.com.cn](https://socks5ip.com.cn)
 - 💬 微信：**17720135827** ｜ QQ：**878989347**
-- 📌 配套深度指南：[静态住宅IP购买全指南（24 家平台价格表 / 4 步验真 / 10 组问答）](https://github.com/socks5ip/static-residential-ip) · [住宅IP怎么选（静态 vs 动态 / 美日港韩德地区 / SOCKS5·L2TP 接入）](https://github.com/socks5ip/residential-ip-guide-cn)
+- 📌 配套深度指南：[静态住宅IP购买全指南（24 家平台价格表 / 4 步验真 / 10 组问答）](https://github.com/socks5ip/static-residential-ip) · [住宅IP怎么选（静态 vs 动态 / 美日港韩德地区 / SOCKS5·L2TP 接入）](https://github.com/socks5ip/residential-ip-guide-cn) · [IP纯净度检测完全指南（8 项维度 / 9 站口径 / 4 步自检）](https://github.com/socks5ip/ip-cleanliness-check) · [SK5代理完全指南（协议正名 / 24 家实测 / 客户端配置）](https://github.com/socks5ip/sk5-proxy)
 - 📦 相关开源：[proxy-checker-cli](https://github.com/socks5ip/proxy-checker-cli) · [proxy-resource-hub](https://github.com/socks5ip/proxy-resource-hub) · [IP 知识库](https://github.com/socks5ip/ip-zhishi-base)
 
 ## 贡献
